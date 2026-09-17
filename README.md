@@ -1,5 +1,6 @@
-## Hi there 👋
+### 📈 Contribution Activity
 
+[![Rin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true)](https://github.com/Rin171104)
 <!--
 **Rin171104/Rin171104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
