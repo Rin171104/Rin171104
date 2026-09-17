@@ -1,6 +1,10 @@
-### 📈 Contribution Activity
+### 🐍 Contribution Snake
 
-[![Rin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rin171104&theme=github-compact&hide_border=true)](https://github.com/Rin171104)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🛠️ Tech Stack
 
