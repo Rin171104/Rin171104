@@ -52,15 +52,11 @@ Xin chào! Mình là **Rin**, một **Software Engineer định hướng AI**, �
 ### 🔬 How I Learn & Build
 
 Mình thích **research → experiment → evaluate → iterate**.
-
-Thay vì chỉ quan tâm đến việc một model "có chạy hay không", mình muốn hiểu **tại sao hệ thống hoạt động, nó thất bại ở đâu và làm thế nào để cải thiện**. Vì vậy, trong các project của mình, mình thường dành nhiều thời gian cho evaluation, debugging và cải thiện từng component trong pipeline.
+Thay vì chỉ quan tâm đến việc một model "có chạy hay không", mình muốn hiểu **tại sao hệ thống hoạt động, nó thất bại ở đâu và làm thế nào để cải thiện**. 
 
 ### 🎯 My Direction
 
-Mục tiêu của mình là phát triển theo hướng **AI Product / AI Solution**, xây dựng những hệ thống AI vừa có nền tảng kỹ thuật tốt, vừa có khả năng giải quyết bài toán thực tế.
-
-Hiện tại mình đang tập trung sâu hơn vào:
-
+Mục tiêu là phát triển theo hướng **AI Product / AI Solution**, xây dựng những hệ thống AI vừa có nền tảng kỹ thuật tốt, vừa có khả năng giải quyết bài toán thực tế.
 **LLM → RAG → AI Agent → Multi-Agent → AI Evaluation → AI Product**
 
 ### 🐍 Contribution Snake
