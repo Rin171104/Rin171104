@@ -19,17 +19,32 @@
 
 ### 👋 About Me
 
-Xin chào! Mình là **Rin**, sinh viên tốt nghiệp chuyên ngành **Software Engineering** từ Hanoi University of Industry.
+Xin chào! Mình là **Rin**, một **Software Engineer định hướng AI**, đặc biệt quan tâm đến cách biến các công nghệ AI/LLM thành những sản phẩm có thể giải quyết các bài toán thực tế.
 
-Mình đam mê phát triển các giải pháp **AI & LLM** để giải quyết các vấn đề thực tế. Hiện tại, mình đang học hỏi và phát triển theo hướng **AI Product / Solution** — nơi kết hợp kiến thức kỹ thuật với tư duy sản phẩm và hiểu business.
+Mình thích đi từ **Problem → Solution → Product** thay vì chỉ tập trung vào việc xây dựng một model. Khi làm một bài toán AI, mình thường quan tâm đến toàn bộ quá trình: hiểu vấn đề, xác định người dùng, thiết kế AI workflow, xây dựng hệ thống, đánh giá chất lượng và đưa giải pháp vào sử dụng.
 
-Trong quá trình học tập và làm project, mình đã có kinh nghiệm với:
-- **Fine-tuning LLM** (SFT, GRPO, LoRA) để tối ưu mô hình cho bài toán cụ thể
-- **RAG Systems** để kết hợp kiến thức nội bộ với LLM
-- **AI Agent** với LangChain, LangGraph
-- **Deployment** với FastAPI, Docker, Streamlit
+### 🧠 What I Work With
 
----
+- 🤖 **LLM & Generative AI** — Prompt Engineering, SFT, LoRA, GRPO và tối ưu LLM cho các domain cụ thể
+- 🔎 **RAG Systems** — Data Processing, Chunking, Embedding, Retrieval, Reranking và Evaluation
+- 🕸️ **AI Agents** — LangChain, LangGraph, Tool Calling, Workflow & Multi-Agent Systems
+- ⚙️ **AI Engineering** — Python, FastAPI, Docker, Vector Database và API Integration
+- 📊 **AI Evaluation** — Recall@K, Faithfulness, Answer Accuracy, Context Accuracy và xây dựng evaluation pipeline
+- 🚀 **AI Product / Solution** — quan tâm đến việc kết nối AI capability với user needs và business requirements
+
+### 🔬 How I Learn & Build
+
+Mình thích **research → experiment → evaluate → iterate**.
+
+Thay vì chỉ quan tâm đến việc một model "có chạy hay không", mình muốn hiểu **tại sao hệ thống hoạt động, nó thất bại ở đâu và làm thế nào để cải thiện**. Vì vậy, trong các project của mình, mình thường dành nhiều thời gian cho evaluation, debugging và cải thiện từng component trong pipeline.
+
+### 🎯 My Direction
+
+Mục tiêu của mình là phát triển theo hướng **AI Product / AI Solution**, xây dựng những hệ thống AI vừa có nền tảng kỹ thuật tốt, vừa có khả năng giải quyết bài toán thực tế.
+
+Hiện tại mình đang tập trung sâu hơn vào:
+
+**LLM → RAG → AI Agent → Multi-Agent → AI Evaluation → AI Product**
 
 ### 🐍 Contribution Snake
 
