@@ -20,6 +20,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rin171104
+          svg_outdir: .
+          dark_snake_color: "#E8F5E9"
+          light_snake_color: "#1B5E20"
+          dark_grid_color: "#1E1E1E"
+          light_grid_color: "#EBEDF0"
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg

@@ -64,6 +64,6 @@ Mục tiêu là phát triển theo hướng **AI Product / AI Solution**, xây d
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg" style="filter:invert(100%)">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
 </picture>
 
