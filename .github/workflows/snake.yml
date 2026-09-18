@@ -23,3 +23,11 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: .
+          keep_files: true
