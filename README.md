@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Ha Noi, Vietnam · 📧 laitherin1711@gmail.com · 📱 0392581150
+  📍 Hanoi, Vietnam · 📧 laitherin1711@gmail.com · 📱 0392581150
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-Xin chào! Mình là **Rin**, một **Software Engineer định hướng AI**, đặc biệt quan tâm đến cách biến các công nghệ AI/LLM thành những sản phẩm có thể giải quyết các bài toán thực tế.
+Hi there! I'm **Rin**, an **AI-focused Software Engineer** with a strong interest in turning AI/LLM technologies into practical products that solve real-world problems.
 
 ### 🧠 What I Work With
 
@@ -51,12 +51,12 @@ Xin chào! Mình là **Rin**, một **Software Engineer định hướng AI**, �
 
 ### 🔬 How I Learn & Build
 
-Mình thích **research → experiment → evaluate → iterate**.
-Thay vì chỉ quan tâm đến việc một model "có chạy hay không", mình muốn hiểu **tại sao hệ thống hoạt động, nó thất bại ở đâu và làm thế nào để cải thiện**. 
+I follow the **research → experiment → evaluate → iterate** approach.
+Instead of just asking whether a model "works or not," I want to understand **why a system works, where it fails, and how to improve it**.
 
 ### 🎯 My Direction
 
-Mục tiêu là phát triển theo hướng **AI Product / AI Solution**, xây dựng những hệ thống AI vừa có nền tảng kỹ thuật tốt, vừa có khả năng giải quyết bài toán thực tế.
+My goal is to grow toward **AI Product / AI Solution**, building AI systems that have solid technical foundations while effectively solving real-world problems.
 **LLM → RAG → AI Agent → Multi-Agent → AI Evaluation → AI Product**
 
 ### 🐍 Contribution Snake
