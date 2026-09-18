@@ -15,16 +15,14 @@
 
 Xin chào! Mình là **Rin**, một **Software Engineer định hướng AI**, đặc biệt quan tâm đến cách biến các công nghệ AI/LLM thành những sản phẩm có thể giải quyết các bài toán thực tế.
 
-Mình thích đi từ **Problem → Solution → Product** thay vì chỉ tập trung vào việc xây dựng một model. Khi làm một bài toán AI, mình thường quan tâm đến toàn bộ quá trình: hiểu vấn đề, xác định người dùng, thiết kế AI workflow, xây dựng hệ thống, đánh giá chất lượng và đưa giải pháp vào sử dụng.
-
 ### 🧠 What I Work With
 
-- 🤖 **LLM & Generative AI** — Prompt Engineering, SFT, LoRA, GRPO và tối ưu LLM cho các domain cụ thể
-- 🔎 **RAG Systems** — Data Processing, Chunking, Embedding, Retrieval, Reranking và Evaluation
-- 🕸️ **AI Agents** — LangChain, LangGraph, Tool Calling, Workflow & Multi-Agent Systems
-- ⚙️ **AI Engineering** — Python, FastAPI, Docker, Vector Database và API Integration
-- 📊 **AI Evaluation** — Recall@K, Faithfulness, Answer Accuracy, Context Accuracy và xây dựng evaluation pipeline
-- 🚀 **AI Product / Solution** — quan tâm đến việc kết nối AI capability với user needs và business requirements
+- 🤖 **LLM & Generative AI** 
+- 🔎 **RAG Systems** 
+- 🕸️ **AI Agents**
+- ⚙️ **AI Engineering** 
+- 📊 **AI Evaluation** 
+- 🚀 **AI Product / Solution** 
 
 ### 🛠️ Tech Stack
 
