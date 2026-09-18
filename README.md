@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Rin171104.png" width="150" height="150" alt="Rin">
-</p>
 
 <h1 align="center">Lại Thế Rin</h1>
 <p align="center">
@@ -11,9 +8,6 @@
   📍 Ha Noi, Vietnam · 📧 laitherin1711@gmail.com · 📱 0392581150
 </p>
 
-<p align="center">
-  🔬 AI · LLM · RAG · Fine-tuning · LangChain
-</p>
 
 ---
 
