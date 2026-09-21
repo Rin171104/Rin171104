@@ -59,11 +59,5 @@ Instead of just asking whether a model "works or not," I want to understand **wh
 My goal is to grow toward **AI Product / AI Solution**, building AI systems that have solid technical foundations while effectively solving real-world problems.
 **LLM → RAG → AI Agent → Multi-Agent → AI Evaluation → AI Product**
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rin171104/Rin171104/output/github-contribution-grid-snake.svg">
-</picture>
 
